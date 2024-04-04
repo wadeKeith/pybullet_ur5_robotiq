@@ -8,7 +8,7 @@ import pybullet_data
 
 from utilities import Models, Camera
 from collections import namedtuple
-from attrdict import AttrDict
+# from attrdict import AttrDict
 from tqdm import tqdm
 
 

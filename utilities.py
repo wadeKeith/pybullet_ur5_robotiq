@@ -1,7 +1,7 @@
 import pybullet as p
 import glob
 from collections import namedtuple
-from attrdict import AttrDict
+# from attrdict import AttrDict
 import functools
 import torch
 import cv2
