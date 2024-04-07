@@ -140,3 +140,4 @@ cython_debug/
 # IDEs
 .vscode/*
 .idea/*
+.DS_Store
